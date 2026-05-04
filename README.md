@@ -162,7 +162,7 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/raghuveersharma-g13-autocad/origami-based-collapsible-stadium-roof-/blob/main/community%20service%20raghuveer%20sharma%20G13%20autocad/WhatsApp%20Image%202026-05-03%20at%205.11.12%20PM%20(1).jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/NageshRangdal/-RAIL-GUIDED-RACK-CLIMBING-ROBOTIC-SYSTEM-FOR-AUTOMATED-BIN-RETRIEVAL/blob/main/IMAGES%20OF%20COMMUNITY%20SERVICES/PLANTATION.jpeg" alt="Community Service Photo 2" width="30%">
 <img src="https://github.com/NageshRangdal/-RAIL-GUIDED-RACK-CLIMBING-ROBOTIC-SYSTEM-FOR-AUTOMATED-BIN-RETRIEVAL/blob/main/IMAGES%20OF%20COMMUNITY%20SERVICES/SENIOR%20SERVICES.jpeg" alt="Community Service Photo 3" width="30%">
 </div>

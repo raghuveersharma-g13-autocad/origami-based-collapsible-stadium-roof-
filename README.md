@@ -89,7 +89,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="https://github.com/NageshRangdal/-RAIL-GUIDED-RACK-CLIMBING-ROBOTIC-SYSTEM-FOR-AUTOMATED-BIN-RETRIEVAL/blob/main/Project%20Report%20of%20Robot%20pdf.pdf"_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/raghuveersharma-g13-autocad/origami-based-collapsible-stadium-roof-/blob/main/FINAL%20REPORT%20INTERNSHIP.pdf"_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
